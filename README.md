@@ -19,7 +19,6 @@ install.bat
 python run.py
 
 # 或直接运行
-python peking_opera_desktop.py    # 基础版
 python peking_opera_advanced.py   # 高级版
 ```
 
